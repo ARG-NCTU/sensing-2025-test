@@ -13,6 +13,11 @@ or if you do not have ssh key yet (you should set it up soon)
 git clone https://github.com/ARG-NCTU/sensing-2025-test.git
 ```
 
+Enter the repo
+```
+cd sensing-2025-test
+```
+
 For your first docker terminal:
 ```
 source docker_run.sh
